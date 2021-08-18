@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **bijantium.yt.32@gmail.com**
 
-- ⚡ Fun fact **Single**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
