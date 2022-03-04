@@ -2,7 +2,8 @@
 ![Null Banner](./NULL.png)
 <!-- End of Banner -->
 <!-- About me -->
-I'm a software developer who is passionate about making mobile-apps with Kotlin or Flutter. Creating mobile-apps for giving contribute technology which in Indonesia and building forum for develop project mobile-apps or any platform. Some technology i enjoy working with include Flutter and NodeJs. I am also part of a startup, namely the <span style="color:green"><a href="https://tanpabatasgroup.com/links/" style="color:green" target="_blank"><b>Tanpabatas Group Indonesia</b></a></span>, let's support young people to grow!.
+I'm a <code>**Software Developer**</code> who is passionate about making <code>**Mobile Apps**</code> with <code>**Kotlin**</code> or <code>**Flutter**</code>. Creating <code>**Mobile Apps**</code> for giving contribute technology which in Indonesia and building forum for develop project <code>**Mobile Apps**</code> or any platform. Some technology i enjoy working with include <code>**Flutter**</code> and <code>**NodeJS**</code>. I am also part of a startup, namely the <span style="color:green"><a href="https://tanpabatasgroup.com/links/" style="color:green" target="_blank"><code>**Tanpabatas Group Indonesia**</code></a></span>, let's support young people to grow!.
+
 <!-- End of About me -->
 <!-- <h1 align="center">Call Me Bijantyum</h1>
 <h3 align="center">I'm passionate Mobile Development.</h3>
