@@ -4,12 +4,15 @@
 <!-- About me -->
 I'm a <code>**Software Developer**</code> who is passionate about making <code>**Mobile Apps**</code> with <code>**Kotlin**</code> or <code>**Flutter**</code>. Creating <code>**Mobile Apps**</code> for giving contribute technology which in Indonesia and building forum for develop project <code>**Mobile Apps**</code> or any platform. Some technology i enjoy working with include <code>**Flutter**</code> and <code>**NodeJS**</code>. I am also part of a startup, namely the <span style="color:green"><a href="https://tanpabatasgroup.com/links/" style="color:green" target="_blank"><code>**Tanpabatas Group Indonesia**</code></a></span>, let's support young people to grow!.
 <!-- End of About me -->
-
+## :trophy: Award
+<a href="https://github.com/Bintaaaa/gampah_reckless_waste_reporting_system">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bintaaaa&repo=gampah_reckless_waste_reporting_system" alt="GitHub Stats" />
+    </a>
 <!-- Reach me on -->
 
 <!-- End of Reach me on -->
 <!-- Github Statistics -->
-## 📈 Github Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=Bintaaaa&color=green)
+## 📈 Bintaaaa Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=Bintaaaa&color=green)
 <p align="left">
 <a href="https://github.com/Bintaaaa">
   <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bintaaaa&show_icons=true&theme=light&include_all_commits=true&count_private=true&icon_color=000000&bg_color=FFFFFF"/>
