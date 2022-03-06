@@ -4,7 +4,7 @@
 <!-- About me -->
 I'm a <code>**Software Developer**</code> who is passionate about making <code>**Mobile Apps**</code> with <code>**Kotlin**</code> or <code>**Flutter**</code>. Creating <code>**Mobile Apps**</code> for giving contribute technology which in Indonesia and building forum for develop project <code>**Mobile Apps**</code> or any platform. Some technology i enjoy working with include <code>**Flutter**</code> and <code>**NodeJS**</code>. I am also part of a startup, namely the <span style="color:green"><a href="https://tanpabatasgroup.com/links/" style="color:green" target="_blank"><code>**Tanpabatas Group Indonesia**</code></a></span>, let's support young people to grow!.
 <!-- End of About me -->
-## :trophy: Award ![Award](https://img.shields.io/badge/Best%20Capstone%20Project-Dicoding%20Indonesia-blue)
+## :trophy: Award ![Award](https://img.shields.io/badge/Dicoding-Best%20Capstone-blue)
 <a  href="https://github.com/Bintaaaa/gampah_reckless_waste_reporting_system">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bintaaaa&repo=gampah_reckless_waste_reporting_system" alt="GitHub Stats" />
     </a>
